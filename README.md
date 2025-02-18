@@ -66,10 +66,3 @@ python 1.py 1
 
 This will use the second camera (index 1) instead of the default camera (index 0).
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This version improves readability, structure, and formatting, making it more user-friendly. The addition of a "License" section and clearer steps in the "Installation" and "Usage" sections helps clarify the process.
