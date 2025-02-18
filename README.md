@@ -25,7 +25,7 @@ This script demonstrates real-time face detection using OpenCV and a pre-trained
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/
+   git clone https://github.com/konynour/faceDectection.git
 Navigate to the project folder:
 shCopy
 cd face-detection
