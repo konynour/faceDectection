@@ -1,6 +1,3 @@
-Here's a reformatted and improved version of your README:
-
----
 
 # Real-Time Face Detection using OpenCV and SSD
 
